@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "rule.C": "cpp",
+        "splashdown.C": "cpp",
+        "board.C": "cpp"
+    }
+}
